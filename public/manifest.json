@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "Excuse-gen",
+  "name": "Get-Excuse",
   "description": "This Chrome extension gives some awesome developer excuses",
   "version": "1.0",
 
